@@ -1,2 +1,2 @@
-# comutation
-Comut Plotting Tool (In Prog)
+# Comutation
+Comutation Plotter
